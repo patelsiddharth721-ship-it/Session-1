@@ -1,0 +1,22 @@
+// Title stores text, so it is a primitive data type (String)
+let title = "Learn JavaScript Basics";
+
+// Views stores a number, so it is a primitive data type (Number)
+let views = 5000;
+
+// Likes stores a number, so it is a primitive data type (Number)
+let likes = 350;
+
+// is_premium stores true or false, so it is a primitive data type (Boolean)
+let is_premium = true;
+
+/*
+Explanation:
+- title → Primitive (String) because it contains text.
+- views → Primitive (Number) because it contains a numeric value.
+- likes → Primitive (Number) because it contains a numeric value.
+- is_premium → Primitive (Boolean) because it contains only true or false.
+
+There are no non-primitive data types in the given variables.
+Non-primitive data types include Objects, Arrays, and Functions.
+*/
